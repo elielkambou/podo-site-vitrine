@@ -1,6 +1,8 @@
 # PODO — site vitrine
 
-Site de présentation B2B en français. Il décrit le **projet** PODO et ses limites ; il ne demande ni scan, ni dossier patient, ni donnée de santé. Le code Android et les outils de laboratoire restent dans les autres dossiers du dépôt.
+Site de présentation B2B en français. Il décrit le **projet** PODO et ses limites ; il ne demande ni scan, ni dossier patient, ni donnée de santé. Le code Android et les outils de laboratoire restent dans le dossier PODO parent et ne sont pas inclus dans ce dépôt GitHub.
+
+Code source du site : <https://github.com/elielkambou/podo-site-vitrine> (dépôt privé, branche `main`). Le dossier `site-vitrine/` est un dépôt Git indépendant du dépôt PODO parent.
 
 ## Démarrage
 

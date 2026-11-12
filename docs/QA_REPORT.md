@@ -32,6 +32,7 @@ Les contrôles logiciels concernent exclusivement le site vitrine ; ils ne valid
 | `POST /api/contact` sur l'URL de test | HTTP 503 ; aucun message ne peut être envoyé par le formulaire |
 | `pnpm check` avant mise sur GitHub, 12 novembre 2026 | Réussi : format, lint, types, 7 tests Vitest et build Next.js |
 | Inventaire Git du seul `site-vitrine/` | 53 fichiers ; `.env.local`, `.vercel/`, `.next/` et `node_modules/` exclus ; aucun motif de jeton ou clé privée détecté dans les fichiers sélectionnés |
+| GitHub, 12 novembre 2026 | Dépôt privé `elielkambou/podo-site-vitrine` créé ; branche `main` poussée, 53 fichiers source ; aucun autre dossier PODO inclus |
 
 ## Limites
 
