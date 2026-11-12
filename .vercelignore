@@ -1,0 +1,9 @@
+.env*
+.vercel/
+.next/
+node_modules/
+docs/
+tests/
+playwright-report/
+test-results/
+README.md
